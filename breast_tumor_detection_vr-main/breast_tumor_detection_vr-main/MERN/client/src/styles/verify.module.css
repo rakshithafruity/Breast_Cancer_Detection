@@ -1,0 +1,19 @@
+.blue_btn{
+    border: none;
+	outline: none;
+	padding: 12px 0;
+    height:55px;
+	background-color:#23058c;
+    color: white;
+	border-radius: 20px;
+	width: 250px;
+	font-weight: bold;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+img {
+    width: 200px;
+    height:200px;
+    margin-bottom: 30px;
+}
